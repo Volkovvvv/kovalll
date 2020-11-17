@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+   
+    --animate-duration: 2s;
+     
+}
+body{
+    background-color: pink;
+}
+.hi{
+    display:block;
+    margin:0 auto;
+    --animate-delay: 2.5s;
+    --animate-duration: 3s;
+}
+.emm{
+    --animate-delay: 5s;
+}
+.s7{
+    --animate-delay: 7s;
+}
+.s8{
+    --animate-delay: 8s;
+}
+.s9{
+    --animate-delay: 9s;
+}
+.vlad{
+    width: 500px;
+    height: 500px;
+    display:block;
+    --animate-delay: 9s;
+    margin: 0 auto;
+}
+.ne{
+    margin-top: 150px;
+}
+.hii{
+    display:block;
+    margin:0 auto;
+    --animate-delay: 11s;
+}
